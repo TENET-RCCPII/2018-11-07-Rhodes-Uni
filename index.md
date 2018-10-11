@@ -5,12 +5,12 @@ venue: "Rhodes University"        # brief name of host site without address (e.g
 address: "Continuing Education Centre, Grahamstown"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "33.3170479,26.5108861"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "-33.3170479,26.5108861"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "7 - 9 November, 2018"    
 humantime: "9:00 - 16:30"   
 startdate: 2018-11-07     
 enddate: 2018-11-09        
-instructor: ["Danielle Quin", "Zak van Heerden", "TBC"] like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Danielle Quin", "Zak van Heerden", "TBC"] 
 helper: ["TBC"]    
 email: ["anelda.vdwalt@gmail.com"]    
 collaborative_notes: http://pad.software-carpentry.org/2018-11-07-Rhodes-Uni   
