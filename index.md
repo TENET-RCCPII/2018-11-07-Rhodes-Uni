@@ -10,9 +10,9 @@ humandate: "7 - 9 November, 2018"
 humantime: "9:00 - 16:30"   
 startdate: 2018-11-07     
 enddate: 2018-11-09        
-instructor: ["Danielle Quin", "Zak van Heerden", "TBC"] 
+instructor: ["Danielle Quin", "Zak van Heerden", "Anne Treasure"] 
 helper: ["TBC"]    
-email: ["anelda.vdwalt@gmail.com"]    
+email: ["vuyani3000@gmail.com","anelda.vdwalt@gmail.com"]    
 collaborative_notes: http://pad.software-carpentry.org/2018-11-07-Rhodes-Uni   
 eventbrite:        
 ---
